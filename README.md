@@ -1,1 +1,2 @@
-# Парсер ссылок stackoverflow с применением BeautifulSoup
+# StackOverflow Python Parser
+Парсер ссылок stackoverflow с применением BeautifulSoup
